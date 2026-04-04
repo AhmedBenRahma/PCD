@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import date
+from datetime import date 
 from typing import Literal, Optional
 
 from fastapi import APIRouter, HTTPException, Query, Request
